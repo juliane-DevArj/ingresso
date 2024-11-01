@@ -1,7 +1,10 @@
 <h1>Compra de Ingressos Online</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura, em 2024</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura, em 2024.
+A Branch secundária é a minha versão do código antes de refatorar em mais funções.
+Não está igual ao que os instrutores propuseram no curso, pois tentei fazer o desafio sozinha.
+</p>
 
 ## 🚀 Tecnologias
 
