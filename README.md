@@ -1,7 +1,7 @@
 <h1>Compra de Ingressos Online</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura, em 2024</p>
 
 ## 🚀 Tecnologias
 
